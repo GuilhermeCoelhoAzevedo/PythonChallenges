@@ -50,3 +50,6 @@ root.right = TreeNode(3)
 
 solution = Solution()
 print(solution.diameterOfBinaryTree(root))
+
+print("Test")
+
